@@ -1,2 +1,2 @@
 # Display-Images
-The aims of this application are to display diifferent methods of image visualisations
+The aim of this application is to display diifferent methods of image visualisations
